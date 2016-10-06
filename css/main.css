@@ -1,0 +1,39 @@
+html {
+    padding: 2em;
+    /*-----------HTML STYLES-----------*/
+    background: #f2f1ed;
+    font-family: Georgia, serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+    color: #5d8432;
+    font-family: 'Patua One', serif;
+}
+
+img {
+    width: 100%;
+}
+
+figcaption {
+    padding: 0 2em;
+    text-align: center;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+#hadro {
+    font-size: 1.2rem;
+}
+
+ul li a {
+    color: #793284;
+    font-size: 1.5rem;
+    font-family: 'Patua One', serif;
+}
+
+ul li a:hover {
+    color: #b42885;
+}
